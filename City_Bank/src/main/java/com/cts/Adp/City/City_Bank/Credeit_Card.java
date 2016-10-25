@@ -14,7 +14,7 @@ public class Credeit_Card {
 	
 	
 	public String update() {
-		System.out.println("insetion succesfully"+"Check your status");
+		System.out.println("insetion succesfully"+"Check your status"+"delete");
 		return "inserted";
 	
 	}
