@@ -11,5 +11,9 @@ public class Credeit_Card {
 		System.out.println("insetion succesfully");
 		return "inserted";
 	}
+	public String update() {
+		System.out.println("insetion succesfully");
+		return "inserted";
+	}
 
 }
