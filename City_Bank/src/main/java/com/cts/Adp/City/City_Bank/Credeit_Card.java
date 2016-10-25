@@ -11,12 +11,13 @@ public class Credeit_Card {
 		System.out.println("insetion succesfully");
 		return "inserted";
 	}
-	
-	
+	public String update() {
+		System.out.println("insetion succesfully");
+		return "inserted";
+	}
 	public String update() {
 		System.out.println("insetion succesfully"+"Check your status"+"delete");
 		return "inserted";
-	
 	}
 	
 
