@@ -16,7 +16,7 @@ public class Credeit_Card {
 		return "inserted";
 	}
 	public String update1() {
-		System.out.println("insetion succesfully"+"Check your status"+"delete");
+		System.out.println("insetion succesful in child branch"+"Check your status"+"delete");
 		return "inserted";
 	}
 	
